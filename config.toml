@@ -1,0 +1,4 @@
+baseURL = "http://www.martincoetzee/"
+languageCode = "en-us"
+title = "martin coetzee"
+theme = "hugo-theme-console"
